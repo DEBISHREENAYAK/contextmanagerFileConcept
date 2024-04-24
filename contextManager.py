@@ -1,6 +1,6 @@
 #contex Manzager
 #2 types -> Using Class, Using Function
-#use anyone of it at at a time 
+#use any one of it at at a time 
 
 
 # USING CLASS
